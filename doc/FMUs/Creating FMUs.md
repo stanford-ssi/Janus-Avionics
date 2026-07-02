@@ -29,9 +29,9 @@ Janus-Avionics
 ```
 
 ### Example
-Base Part Number: LMR51430
-Orderable Part Number: LMR51430XDDCR
-Functional Descriptor: “SIMPLE SWITCHER® Power Converter 4.5-V to 36-V, 3-A, Synchronous Buck Converter in a SOT-23 Package”
+Base Part Number: LMR51430 \
+Orderable Part Number: LMR51430XDDCR \
+Functional Descriptor: “SIMPLE SWITCHER® Power Converter 4.5-V to 36-V, 3-A, Synchronous Buck Converter in a SOT-23 Package”   
 
 Here is an example of how an FMU based on the LMR51430 buck converter should be organized within the repository:
 
@@ -48,12 +48,14 @@ Janus-Avionics
 
 As you can see, placeholder names have been replaced with the following:
 
-FMU Subsystem Category --> power
-Your IC Part Number --> LMR51430XDDCR 
-IC Category --> Buck Converter
+FMU Subsystem Category --> power \
+Your IC Part Number --> LMR51430XDDCR \
+IC Category --> Buck Converter 
 
-**Note on IC Categories:**
+**Note on Subystem Categories:** \
+Subsystem categories directly map to subsystems on a cubesat.
 
+**Note on IC Categories:** \
 IC categories should be overarching descriptors of an IC and what it is, rather than explicit details about the IC itself.
 For example, some common IC Categories are the following:
 * Buck Converter
