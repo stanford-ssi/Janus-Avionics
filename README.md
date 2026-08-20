@@ -32,4 +32,4 @@ Note: Not all folders have been documented yet; standards **must** be made befor
 
 
 ## Updating The Repository
-Before making any changed to the repository, making any changes, or quite literally doing anything that touched the repository, you MUST read the [github procedures document](standards/Using Github.md).
+Before making any changed to the repository, making any changes, or quite literally doing anything that touched the repository, you MUST read the [Github Use Document](standards/Using_Github.md) .
