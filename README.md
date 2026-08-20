@@ -13,6 +13,7 @@ This repository will be the primary place to find trainings, meeting notes, KiCa
 ├── assembly/ # Contains all procedures and documentation relating to board assembly \ board integration
 ├── design/ # Contains all documentation relating to the satellite design
 ├── fmus/ # Contains all Functional Modular Units (FMUs)
+├── mission-documents/ # Contains all documents outlining the mission statement and goals of Project Janus
 ├── research/ # Contains all reesarch related to the satellite design
 ├── standards/ # Contains all standards that must be followed during research, design, assembly, testing, and documentation.
 ├── testing/ # Contains all documentation of board testing for work on the satellite or on FMUs
