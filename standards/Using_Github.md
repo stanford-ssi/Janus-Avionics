@@ -82,3 +82,5 @@ Write a descriptive name and description for your pull request which will be rev
 
 After submitting, your request will show up under pull requests to be reviewed:
 ![](img/image-3.png)
+
+Note to Co-Leads: After merging a pull request, please delete the branch afterwards!`
