@@ -22,5 +22,10 @@ This repository will be the primary place to find trainings, meeting notes, KiCa
 **For quick access, here is a convenient list of links to these folders:**
 Note: Not all folders have been documented yet; standards **must** be made before use.
 
-* [Assembly](assembly/README.md)
-* [Desing](design/README.md)
+* [Assembly](assembly/)
+* [Desing](design/)
+* [FMUs](fmus/)
+* [Research](research/)
+* [Standards](standards/)
+* [Testing](testing/)
+* [Training](training/)
