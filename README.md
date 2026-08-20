@@ -23,7 +23,7 @@ This repository will be the primary place to find trainings, meeting notes, KiCa
 Note: Not all folders have been documented yet; standards **must** be made before use.
 
 * [Assembly](assembly/)
-* [Desing](design/)
+* [Design](design/)
 * [FMUs](fmus/)
 * [Research](research/)
 * [Standards](standards/)
