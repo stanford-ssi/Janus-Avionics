@@ -28,4 +28,8 @@ Note: Not all folders have been documented yet; standards **must** be made befor
 * [Research](research/)
 * [Standards](standards/)
 * [Testing](testing/)
-* [Training](training/)
+* [Training](learning/)
+
+
+## Updating The Repository
+Before making any changed to the repository, making any changes, or quite literally doing anything that touched the repository, you MUST read the [github procedures document](standards/Using Github.md).
