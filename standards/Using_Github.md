@@ -31,7 +31,7 @@ To download the repository to your computer, run the following command:
  ```
 
 ## Creating Pull Requests
-When working on research, design, documentation, or any other change to be made to the remote repository. You must use the standard git pull request process commonly used in software development.
+When working on research, design, documentation, or any other change to be made to the remote repository. You must use the standard git pull request process commonly used in software development to ensure proper review of all changes.
 
 **Checking out a new branch**
 To add a new feature, fix, design, etc. You must checkout a new branch using the local copy clone you just created.
@@ -68,4 +68,17 @@ In your cloned repository folder, run the following:
  # ex: "git push origin FMU/LM2302"
 
 ```
-test
+
+Once you have pushed your changes, open up your newly created branch on the repository github:
+![](img/image.png)
+
+Switch to your feature (feature/git is my example)
+![](img/image-1.png)
+
+Press the Compare & Pull Request button
+![](img/image-2.png)
+
+Write a descriptive name and description for your pull request which will be reviewed by a co-lead when available. Feel free to message a co-lead after you submit your pull request to have it merged into the main branch.
+
+After submitting, your request will show up under pull requests to be reviewed:
+![](img/image-3.png)
