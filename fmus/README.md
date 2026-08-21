@@ -34,9 +34,11 @@ Using the TPS7A4501 as an example:
 ![](img/image-3.png)
 
 This is a single TPS7A4501 FMU with a full schematic. As you can see, every component is exposed with its value visible. However, this is one layer down in the hierarchical tree.
+
 ![](img/image-1.png)
 
 If we go up to the root schematics, we see the following:
+
 ![](img/abstract.png)
 
 As seen, all components that do not directly interact with external modules are hidden. We use hierarchical labels to abstract function.
