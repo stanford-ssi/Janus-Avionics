@@ -18,7 +18,7 @@ R1 = 4000 # ohms
 V_IN_MIN = 1.21 #  Volts
 V_IN_MAX = 20 # Volts
 V_DROPOUT = .450 # Assuming worst case per datasheet (Volts)
-I_ADJ_BIAS = .0003 # Adjustable Pin Current Bias (Amps)
+I_ADJ_BIAS = .000003 # Adjustable Pin Current Bias (Amps)
 
 # Recommended Passive Values As per Datasheet
 IN_FILTER_CAP = 10 # microFarad
