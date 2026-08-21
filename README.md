@@ -17,7 +17,7 @@ This repository will be the primary place to find trainings, meeting notes, KiCa
 ├── research/ # Contains all reesarch related to the satellite design
 ├── standards/ # Contains all standards that must be followed during research, design, assembly, testing, and documentation.
 ├── testing/ # Contains all documentation of board testing for work on the satellite or on FMUs
-└── trainings/ # Contains all team trainings (Markdown, Slides, PDF's, etc.) necessary for necessary avionics skills.
+└── learning/ # Contains all team trainings (Markdown, Slides, PDF's, etc.) necessary for necessary avionics skills.
 ```
 
 **For quick access, here is a convenient list of links to these folders:**
@@ -25,7 +25,7 @@ Note: Not all folders have been documented yet; standards **must** be made befor
 
 * [Assembly](assembly/)
 * [Design](design/)
-* [FMUs](fmus/)
+* [FMUs](fmus/) # This is something very specific to our team, please read the document linked here prior to any design work.
 * [Research](research/)
 * [Standards](standards/)
 * [Testing](testing/)

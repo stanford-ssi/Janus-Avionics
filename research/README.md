@@ -1,0 +1,1 @@
+# Contains all reesarch related to the satellite design
