@@ -5,13 +5,7 @@ Due to the harsh nature of space, all designs must consider worst-case scenarios
 
 ## Temperature Variation
 1. Internal components
-    * Two Standard options to choose from
-        1. Standard internal LEO component temperature requirements
-        2. New Space alternative Standards
-            * –40°C to +125°C 
-            * ICs use **AEC-Q100**
-            * Passives use **AEC-Q200**
-            * discrete Semiconductors use **AEC Q-101**
+    * ICs/Silicon devices must support an operating range of -55°C to +125°C as per Nasa's MIL-SPEC recommendations.
 2. External components
     * External components/panels/sensors require wider temperature ranges and must deal with more thermal shock variation
         * Must be rated from –150°C to +150°C
@@ -27,17 +21,21 @@ Note: Many COTS components use specialized rad-hard ICs that monitor other compo
     1. Total Mass Loss (**TML**) < 1.0%
     2. Collected Volalite Condensabile Material (**CVCM**) < 0.1%
 
-2. Components can not use pure matte tin finishes whichc ommonly cause circuit shorts in zero-gravity. Mitigation typically encorporates the replacement of tin-lead components with NiPdAu (Nickel-Palladium-Gold) or SnPb (Tin-Lead Alloy) finishes.
+2. Components can not use pure matte tin finishes which commonly cause circuit shorts in zero-gravity. Mitigation typically encorporates the replacement of tin-lead components with NiPdAu (Nickel-Palladium-Gold) or SnPb (Tin-Lead Alloy) finishes.
 
 3. High-Reliability components strictly require gold bond wires over copper wires to avid corrosion and stess failures during thermal flexing. For flight IC's, prioritize gold bond wire packages if available.
 
 Definition: Outgassing refers to the release of gas which is dissolved or trapped inside materials when the surrounding temperature or pressure changes. Changes in surroundings result in sublimation or evaporation of the trapped volatile substances or chemicals. Outgassing can directly degrade signals in an active circuit, hence why it needs to be considered during final board bring-ups.
 
+## Other Notes About Component Selection
+A lot of decisions about component selection depend on expected maximum parameters like voltage, current, temperature, radiation tolerance, etc. As a result, its usually easier to just derate components and pick components rated way higher than needed if its not too expensive. Using the helpful links at the bottom of this page is a great resource if you're having any troubles finding parts or choosing safety margins and need some guidance.
+
 ## Prototyping vs Flight Boards Notes & Requirements
 * Due to the increased costs of military standard components, early designs and prototypes should use standard, non-radhardened components according to its categories recommended manufacturer if applicable. I.E, all passives have recommended radhardened and temperature tolerant variations, but some IC's may not. Some ICs may be standalone and have no rad-hardened alternative.
 
 ## Helpful Links
-1. [NASA Electrical, Electronicvand Electromechanical (EEE) Parts Assurance](https://nepp.nasa.gov/files/29637/NEPP-CP-2017-Sampson-Presentation-STEP-EEE-Parts-TN65338-NEPPweb-reuse-TN45954.pdf)
-    - AEC-Q qualified/teted components can be found on Page 38
-2. [Satellite Constellation Component Manufacturing: Mission-Critical Solutions for LEO Systems](https://www.modusadvanced.com/resources/blog/satellite-constellation-component-manufacturing-mission-critical-solutions-for-leo-systems)
-    - Outlines requirements for LEO system radiation standards
+1. [EEE-INST-002: Instructions for EEE Parts Selection, Screening, Qualification, and Deratin](design-standards/component-selection/NASA-guidelines/EEE-INST-002.pdf)
+
+2. [NASA Parts Selection List (NPSL)](https://nepp.nasa.gov/npsl/)
+    - Parts selection tool for design engineers and parts engineers supporting NASA space flight programs. Large list of parts that NASA recommends for flight projects based on evaluations, risk assessments and quality levels. This list automatically screens for components in strong supply.
+    
