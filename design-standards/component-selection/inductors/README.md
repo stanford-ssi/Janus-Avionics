@@ -1,1 +1,0 @@
-# Design Standard: Inductor Selection
