@@ -34,7 +34,7 @@ A lot of decisions about component selection depend on expected maximum paramete
 * Due to the increased costs of military standard components, early designs and prototypes should use standard, non-radhardened components according to its categories recommended manufacturer if applicable. I.E, all passives have recommended radhardened and temperature tolerant variations, but some IC's may not. Some ICs may be standalone and have no rad-hardened alternative.
 
 ## Helpful Links
-1. [EEE-INST-002: Instructions for EEE Parts Selection, Screening, Qualification, and Deratin](design-standards/component-selection/NASA-guidelines/EEE-INST-002.pdf)
+1. [EEE-INST-002: Instructions for EEE Parts Selection, Screening, Qualification, and Deratin](./NASA-guidelines/EEE-INST-002.pdf)
 
 2. [NASA Parts Selection List (NPSL)](https://nepp.nasa.gov/npsl/)
     - Parts selection tool for design engineers and parts engineers supporting NASA space flight programs. Large list of parts that NASA recommends for flight projects based on evaluations, risk assessments and quality levels. This list automatically screens for components in strong supply.
