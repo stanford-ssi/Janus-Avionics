@@ -23,15 +23,15 @@ Due to the harsh nature of space, all designs must consider worst-case scenarios
 Note: Many COTS components use specialized rad-hard ICs that monitor other components, power-cycling the monitored componet if a radiation-induced current spike is detected. This is a cheaper solution for manual rad-hardening if rad-hard compnents are either unavailable or too expensive.
 
 ## Outgassing + Material Requirements
-1. Components , especially ICs, must comply with ASTM E595 standard manufacturing quality ratings. This standard comprises the following ratings:
-    1. Total Mass Loss (TML) < 1.0%
-    2. Collected Volalite Condensabile Material (CVCM) < 0.1%
+1. Components , especially ICs, must comply with **ASTM E595** standard manufacturing quality ratings. This standard comprises the following ratings:
+    1. Total Mass Loss (**TML**) < 1.0%
+    2. Collected Volalite Condensabile Material (**CVCM**) < 0.1%
 
 2. Components can not use pure matte tin finishes whichc ommonly cause circuit shorts in zero-gravity. Mitigation typically encorporates the replacement of tin-lead components with NiPdAu (Nickel-Palladium-Gold) or SnPb (Tin-Lead Alloy) finishes.
 
 3. High-Reliability components strictly require gold bond wires over copper wires to avid corrosion and stess failures during thermal flexing. For flight IC's, prioritize gold bond wire packages if available.
 
-
+Definition: Outgassing refers to the release of gas which is dissolved or trapped inside materials when the surrounding temperature or pressure changes. Changes in surroundings result in sublimation or evaporation of the trapped volatile substances or chemicals. Outgassing can directly degrade signals in an active circuit, hence why it needs to be considered during final board bring-ups.
 
 ## Prototyping vs Flight Boards Notes & Requirements
 * Due to the increased costs of military standard components, early designs and prototypes should use standard, non-radhardened components according to its categories recommended manufacturer if applicable. I.E, all passives have recommended radhardened and temperature tolerant variations, but some IC's may not. Some ICs may be standalone and have no rad-hardened alternative.
