@@ -1,0 +1,1 @@
+# Design Standard: Resistor Selection
