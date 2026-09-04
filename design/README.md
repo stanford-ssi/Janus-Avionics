@@ -1,1 +1,0 @@
-# Contains all documentation relating to the satellite design

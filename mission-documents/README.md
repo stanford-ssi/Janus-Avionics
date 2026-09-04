@@ -1,1 +1,0 @@
-# Contains all documents outlining the mission statement and goals of Project Janus
