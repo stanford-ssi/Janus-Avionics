@@ -8,10 +8,10 @@ Due to the harsh nature of space, all designs must consider worst-case scenarios
 
 ## Temperature Variation
 1. Internal components
-    * ICs/Silicon devices must support an operating range of -55°C to +125°C as per Nasa's MIL-SPEC recommendations.
+    * ICs/Silicon devices must support an operating range of -55°C to +125°C as per Nasa's MIL-SPEC recommendations. This can also be substituted with an AEC-Q200/Q100 automotive rating as long as there is proper thermal management on the system.
 2. External components
     * External components/panels/sensors require wider temperature ranges and must deal with more thermal shock variation
-        * Must be rated from –150°C to +150°C
+        * Must be rated from –150°C to +150°C (Or thermally managed)
 
 ## Radiation Tolerances
 1. Total Ionizing Dose (**TID**) must typically withstand 20 - 50 krad over a 3-5 year LEO mission lifespan in LEO orbit.
