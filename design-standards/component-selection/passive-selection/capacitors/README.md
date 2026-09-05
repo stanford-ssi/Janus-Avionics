@@ -22,7 +22,7 @@ Note: Every standard uses conventional SMD imperial code sizings and are drop-in
 
 # Prototype Standard
 
-Manufacturer: Samsung Electro-Mechanics\ 
+Manufacturer: Samsung Electro-Mechanics
 Product Name: Multilayer Ceramic Capacitors\ 
 Series Name: CL\ 
 Datasheet: [Multilayer Ceramic Capacitors](./datasheets/Samsung_Multilayer_Ceramic_Capacitors.pdf)\ 
