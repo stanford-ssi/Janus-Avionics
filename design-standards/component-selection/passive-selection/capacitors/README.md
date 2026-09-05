@@ -22,10 +22,10 @@ Note: Every standard uses conventional SMD imperial code sizings and are drop-in
 
 # Prototype Standard
 
-Manufacturer: Samsung Electro-Mechanics 
-Product Name: Multilayer Ceramic Capacitors
-Series Name: CL
-Datasheet: [Multilayer Ceramic Capacitors](./datasheets/Samsung_Multilayer_Ceramic_Capacitors.pdf)
+Manufacturer: Samsung Electro-Mechanics\ 
+Product Name: Multilayer Ceramic Capacitors\
+Series Name: CL\
+Datasheet: [Multilayer Ceramic Capacitors](./datasheets/Samsung_Multilayer_Ceramic_Capacitors.pdf)\
 LCSC Lookup: [Ceramic Capacitors - Samsung Electro-Mechanics](https://www.lcsc.com/category/1142.html?sid=D236DADC7E500240DADFE46DF9A687D2)
 
 Quick Specifications:
@@ -37,9 +37,9 @@ Quick Specifications:
 # Flight Standard
 Note: The only reason a flight standard is necessary is because most basic capacitors result in tin whiskering.
 
-Manufacturer: TDK
-Product Name: MULTILAYER CERAMIC CHIP CAPACITORS
-Series Name: CGA (This series is an LCSC Extended Component)
+Manufacturer: TDK\
+Product Name: MULTILAYER CERAMIC CHIP CAPACITORS\
+Series Name: CGA (This series is an LCSC Extended Component)\
 Datasheet: [Multilayer Ceramic Capacitors](./datasheets/TDK_MULTILAYER CERAMIC CHIP CAPACITORS.pdf)
 LCSC Lookup: [Ceramic Capacitors - Samsung Electro-Mechanics](https://www.lcsc.com/category/1142.html?sid=D236DADC7E500240DADFE46DF9A687D2)
 
