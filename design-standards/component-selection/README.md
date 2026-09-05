@@ -1,5 +1,8 @@
 # Component Selection
 
+## Shortcuts
+* [Passive Component Selection Guide](./passive-selection/README.md)
+
 ## Component Selection Considerations
 Due to the harsh nature of space, all designs must consider worst-case scenarios in their designed environment. In the case of Project Janus, we aim to design a robust satellite designed to handle Low-Earth-Orbit (LEO) conditions. Therefore, the following conditions must be addressed during every selection of the design process:
 
