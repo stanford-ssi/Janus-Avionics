@@ -39,7 +39,7 @@ Note: The only reason a flight standard is necessary is because most basic capac
 
 Manufacturer: TDK
 Product Name: MULTILAYER CERAMIC CHIP CAPACITORS
-Series Name: CGA
+Series Name: CGA (This series is an LCSC Extended Component)
 Datasheet: [Multilayer Ceramic Capacitors](./datasheets/TDK_MULTILAYER CERAMIC CHIP CAPACITORS.pdf)
 LCSC Lookup: [Ceramic Capacitors - Samsung Electro-Mechanics](https://www.lcsc.com/category/1142.html?sid=D236DADC7E500240DADFE46DF9A687D2)
 
