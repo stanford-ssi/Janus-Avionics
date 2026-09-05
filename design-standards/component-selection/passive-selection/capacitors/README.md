@@ -23,9 +23,9 @@ Note: Every standard uses conventional SMD imperial code sizings and are drop-in
 # Prototype Standard
 
 Manufacturer: Samsung Electro-Mechanics
-Product Name: Multilayer Ceramic Capacitors\
-Series Name: CL\
-Datasheet: [Multilayer Ceramic Capacitors](./datasheets/Samsung_Multilayer_Ceramic_Capacitors.pdf)\
+Product Name: Multilayer Ceramic Capacitors\ 
+Series Name: CL\ 
+Datasheet: [Multilayer Ceramic Capacitors](./datasheets/Samsung_Multilayer_Ceramic_Capacitors.pdf)\ 
 LCSC Lookup: [Ceramic Capacitors - Samsung Electro-Mechanics](https://www.lcsc.com/category/1142.html?sid=D236DADC7E500240DADFE46DF9A687D2)
 
 Quick Specifications:
