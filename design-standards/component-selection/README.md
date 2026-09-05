@@ -25,6 +25,8 @@ Note: Many COTS components use specialized rad-hard ICs that monitor other compo
 
 3. High-Reliability components strictly require gold bond wires over copper wires to avid corrosion and stess failures during thermal flexing. For flight IC's, prioritize gold bond wire packages if available.
 
+4. Avoid 100% Tin Leads as they can cause "whiskering" at extreme temperatures. This leads to tin particles being spread out, causing the possibility of shorts. Avoid pure tin leads and instead use Tin-Lead alloy/solder/finishes for components if possible. 
+
 Definition: Outgassing refers to the release of gas which is dissolved or trapped inside materials when the surrounding temperature or pressure changes. Changes in surroundings result in sublimation or evaporation of the trapped volatile substances or chemicals. Outgassing can directly degrade signals in an active circuit, hence why it needs to be considered during final board bring-ups.
 
 ## Other Notes About Component Selection
