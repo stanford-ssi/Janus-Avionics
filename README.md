@@ -5,6 +5,13 @@ Welcome to SSI **Satellite Avionics**! Here, you can find everything you need to
 
 If you have any questions, feel free to contact any AV Co-lead on Slack! Or feel free to email the Kale, the current AV co-lead repo manager at **kalesrz@stanford.edu**.
 
+# Current Leadership (Spring 2026 - Winter 2027)
+Satellite Avionics Co-Leads: Clara Zhen, Nimalan Anbhuarasan, Kale Suarez
+Satellite Co-Leads: Amy Zheng, River Dowdy, Carson Lauer
+
+Workspace Manager: Clara Zhen
+ - Contact For Questions Regarding ES3 and Durand Access
+
 ## Weekly Meeting Times
 Satellite Avionics has two official meetings each week:
 
@@ -39,7 +46,6 @@ We primarily operate out of two buildings, End Station III (Deep Lab / Hepl Sout
 **Address:** 491 S Service Rd, Stanford, CA 94305\
 **Google Maps Link:** [Stanford Student Space Initiative](https://maps.app.goo.gl/ZUDnvgVmYYjSPFpS8)\
 **Access Entrance:** Please enter through the **North Entrance** on Service Road (As Seen Below). After-Hours/Weekend Access requires that you obtain keycard access.
-
 
 ### Stanford University Aeronautics & Astronautics (Durand)
 **Address:** 496 Lomita Mall, Stanford, CA 94305\
