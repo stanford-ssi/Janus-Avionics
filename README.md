@@ -1,5 +1,5 @@
 # Janus-Avionics
-<img src="img/SatellitesLogoRed.svg" alt="Description" width="200">
+<img src="img/SatellitesLogoWhite.svg" alt="Description" width="200">
 
 Welcome to SSI **Satellite Avionics**! Here, you can find everything you need to navigate our team! This repository covers weekly meeting times, technical trainings, team design documentation, assembly processes, testing procedures, and so much more!
 
@@ -58,6 +58,8 @@ We primarily operate out of two buildings, End Station III (Deep Lab / Hepl Sout
 To be able to gain keycard access to these workspaces and to be able to enter without another member to scan you in, you must complete the ES3 Lab safety trainings and complete all the steps listed on the [ES3 Access Guide](https://sites.google.com/stanford.edu/ssi/end-station-iii/keycard-access-for-es3). You will need to use your Stanford Email in order to view the guide.
 
 
-## Additional Helpful Links
+## Additional Helpful Links / Quick Access
 [Stanford SSI Wiki: Satellites](https://ssi-wiki.stanford.edu/Category:Satellites)
-    - SSI's official wiki page (notice: sometimes outdated, but there is some pretty useful information about the team and important definitions if you'd like to check it out.)
+ - SSI's official wiki page (notice: sometimes outdated, but there is some pretty useful information about the team and important definitions if you'd like to check it out.)
+
+[SSI Slack Signup]((https://ssi-teams.slack.com/signup))
