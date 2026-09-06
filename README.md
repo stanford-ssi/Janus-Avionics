@@ -18,4 +18,11 @@ Satellite Avionics has two official meetings each week:
  * **Location:** Check The [#Satellite-Avionics](https://ssi-teams.slack.com/archives/C2L29KW8J) channel in the slack for weekly meeting locations!
  * **Purpose**: Satsurday meetings are Satellite Avionics Full-Team work days! Every subteam will be meeting at this time. This can sometimes happen collectively and sometimes separately. Fall quarter will mostly be dedicated to AV specific onboarding training and early satellite development. Fall quarter attendance is **mandatory** outside of class conflicts or personal health reasons.
 
-## Getting Connected
+## Getting On Slack!
+In order to join our weekly meetings, you'll need to join our slack to figure out where were meeting! You can join our slack by clicking [here](https://ssi-teams.slack.com/signup). Once you're on the slack, go ahead and add the [#satellite-avionics](https://ssi-teams.slack.com/archives/C2L29KW8J) channel. You should also make sure to join these other important channels!
+* [#satellite-avionics](https://ssi-teams.slack.com/archives/C2L29KW8J)
+* [#satellites](https://ssi-teams.slack.com/archives/C04JL94F9)
+* [#satellite-systems](https://ssi-teams.slack.com/archives/C4UL92684)
+* [#esiii](https://ssi-teams.slack.com/archives/C3YLQTN87)
+    - Our Lab Space!!!
+* [#doorbell](https://ssi-teams.slack.com/archives/CE360LHD0)
