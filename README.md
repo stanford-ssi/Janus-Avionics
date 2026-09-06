@@ -9,7 +9,7 @@ If you have any questions, feel free to contact any AV Co-lead on Slack! Or feel
 Satellite Avionics has two official meetings each week:
 
 **Weekly Avionics Meeting**
- * **Time:** Thursday, 7:00 PM - 9:00 PM PST\
+ * **Time:** Thursday, 7:00 PM - 9:00 PM PST
  * **Location:** Check The [#Satellite-Avionics](https://ssi-teams.slack.com/archives/C2L29KW8J) channel in the slack for weekly meeting locations!
  * **Purpose:** Avionics meetings are specifically for AV-specific work, training, and discussions. AV member attendance is expected outside of conflicting Midterms or Finals. Fall quarter attendance is **mandatory** outside of class conflicts or personal health reasons.
 
