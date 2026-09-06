@@ -1,5 +1,5 @@
 # Janus-Avionics
-<img src="img/SatellitesLogoRed.svg" alt="Description" width="300">
+<img src="img/SatellitesLogoRed.svg" alt="Description" width="200">
 
 Welcome to SSI **Satellite Avionics**! Here, you can find everything you need to navigate our team! This repository covers weekly meeting times, technical trainings, team design documentation, assembly processes, testing procedures, and so much more!
 
