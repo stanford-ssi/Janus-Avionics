@@ -40,9 +40,18 @@ We primarily operate out of two buildings, End Station III (Deep Lab / Hepl Sout
 **Google Maps Link:** [Stanford Student Space Initiative](https://maps.app.goo.gl/ZUDnvgVmYYjSPFpS8)\
 **Access Entrance:** Please enter through the **North Entrance** on Service Road (As Seen Below). After-Hours/Weekend Access requires that you obtain keycard access.
 
+
 ### Stanford University Aeronautics & Astronautics (Durand)
 **Address:** 496 Lomita Mall, Stanford, CA 94305\
 **Google Maps Link:** [Stanford University Aeronautics & Astronautics (Durand)](https://maps.app.goo.gl/TxbG7z5m1ypoC3tW7)\
-**Access Entrance:** Any entrance can be used given you have obtained Durand keycard access.
+**Access Entrance:** Any entrance can be used given you have obtained Durand keycard access. Otherwise, feel free to message a lead in the [#satellite-avionics](https://ssi-teams.slack.com/archives/C2L29KW8J) slack channel if you need help getting in!
 
 <img src="img/ES3_LABELED_image.png" alt="Map of End Station III and Durand" width="800">
+
+#### Gaining Access
+To be able to gain keycard access to these workspaces and to be able to enter without another member to scan you in, you must complete the ES3 Lab safety trainings and complete all the steps listed on the [ES3 Access Guide](https://sites.google.com/stanford.edu/ssi/end-station-iii/keycard-access-for-es3). You will need to use your Stanford Email in order to view the guide.
+
+
+## Additional Helpful Links
+[Stanford SSI Wiki: Satellites](https://ssi-wiki.stanford.edu/Category:Satellites)
+    - SSI's official wiki page (notice: sometimes outdated, but there is some pretty useful information about the team and important definitions if you'd like to check it out.)
