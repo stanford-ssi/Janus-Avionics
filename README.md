@@ -48,7 +48,7 @@ We primarily operate out of two buildings, End Station III (Deep Lab / Hepl Sout
 
 <img src="img/ES3_LABELED_image.png" alt="Map of End Station III and Durand" width="800">
 
-#### Gaining Access
+### Gaining Access
 To be able to gain keycard access to these workspaces and to be able to enter without another member to scan you in, you must complete the ES3 Lab safety trainings and complete all the steps listed on the [ES3 Access Guide](https://sites.google.com/stanford.edu/ssi/end-station-iii/keycard-access-for-es3). You will need to use your Stanford Email in order to view the guide.
 
 
