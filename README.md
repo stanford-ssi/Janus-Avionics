@@ -1,5 +1,5 @@
 # Janus-Avionics
-<img src="img/SatellitesLogoWHITE.svg" alt="Description" width="200"><img src="img/SSILogoWHITE.svg" alt="Description" width="200">
+<img src="img/SatellitesLogoWHITE.svg" width="200"><img src="img/SSILogoWHITE.svg" width="200">
 
 Welcome to SSI **Satellite Avionics**! Here, you can find everything you need to navigate our team! This repository covers weekly meeting times, technical trainings, team design documentation, assembly processes, testing procedures, and so much more!
 
@@ -62,4 +62,4 @@ To be able to gain keycard access to these workspaces and to be able to enter wi
 [Stanford SSI Wiki: Satellites](https://ssi-wiki.stanford.edu/Category:Satellites)
  - SSI's official wiki page (notice: sometimes outdated, but there is some pretty useful information about the team and important definitions if you'd like to check it out.)
 
-[SSI Slack Signup]((https://ssi-teams.slack.com/signup))
+[SSI Slack Signup](https://ssi-teams.slack.com/signup)
